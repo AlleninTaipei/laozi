@@ -89,3 +89,7 @@ python scripts/verify_skill.py
 ## 原文來源
 
 《道德經》原文與譯文取自 [ginifab 道德經](https://www.ginifab.com.tw/book/daodejing/).
+
+## 概念原創
+
+[數位時代: 一天一AI 專欄](https://www.bnext.com.tw/article/92316/laozi-ai-skill-tao-te-ching)
