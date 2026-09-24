@@ -2,7 +2,7 @@
 
 一個 Claude Skill. 它不模仿老子的口吻, 而是借用老子 "怎麼看事情": 先看出你卡在哪裡, 再挑一個角度, 引一句《道德經》原文, 給你一點啟發, 而不是一套工作方法.
 
-產品構想與設計取捨見 [Develop.md](Develop.md).
+產品構想與設計取捨見 [Develop.md](Develop.md). 這個 skill 如何用 Claude Code 從構想一路做到實測, 見 [製作過程](docs/making-of.md).
 
 ## 專案結構
 
@@ -10,6 +10,8 @@
 .
 ├── Develop.md                      # 產品構想與設計原則
 ├── README.md
+├── docs/
+│   └── making-of.md                # 用 Claude Code 製作的過程與實測對話
 ├── references/
 │   └── daodejing.md                # 《道德經》81 章原文與譯文 (原始資料)
 ├── scripts/
